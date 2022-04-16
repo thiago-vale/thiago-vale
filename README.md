@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/thiago-vale/Data-Science)
+Olá sou Thiago Vale, Bem vindo ao meu perfil!
 <div>
   <a href="https://github.com/thiago-vale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-vale&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
