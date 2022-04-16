@@ -1,7 +1,9 @@
 Olá sou Thiago Vale, Bem vindo ao meu perfil.
+
 Hi i'm Thiago Vale, Welcome to my profile.
 
 Atualmente trabalho como Analista de Dados na Smart Fit
+
 I’m currently working as Data Analyst at Smart Fit
 
 <div>
