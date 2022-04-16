@@ -1,4 +1,9 @@
-Olá sou Thiago Vale, Bem vindo ao meu perfil!
+Olá sou Thiago Vale, Bem vindo ao meu perfil.
+Hi i'm Thiago Vale, Welcome to my profile.
+
+Atualmente trabalho como Analista de Dados na Smart Fit
+I’m currently working as Data Analyst at Smart Fit
+
 <div>
   <a href="https://github.com/thiago-vale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-vale&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
