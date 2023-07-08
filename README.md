@@ -4,6 +4,7 @@ Oi meu nome e Thiago Vale, bem vindo ao meu perfil.
 I’m currently working as Data Engineer at Smart Fit.
 Atualmente eu estou trabalhando como Engenheiro de Dados na Smart Fit.
 
+---
 <div>
   <a href="https://github.com/thiago-vale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-vale&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -20,4 +21,19 @@ Atualmente eu estou trabalhando como Engenheiro de Dados na Smart Fit.
 </div>
 
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
+---
+[![GitHub watchers](https://badgen.net/github/watchers/thiago-vale/thiago-vale/)](https://GitHub.com/thiago-vale/thiago-vale/watchers/)
+[![GitHub contributors](https://img.shields.io/github/contributors/thiago-vale/badges.svg)](https://GitHub.com/thiago-vale/badges/graphs/contributors/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thiago-vale/thiago-vale)](https://GitHub.com/thiago-vale/thiago-vale/pull/)
+[![GitHub branches](https://badgen.net/github/branches/thiago-vale/thiago-vale)](https://github.com/thiago-vale/thiago-vale/)
+[![GitHub commits](https://img.shields.io/github/commits-since/thiago-vale/thiago-vale/v1.0.0.svg)](https://GitHub.com/thiago-vale/thiago-vale/commit/)
+[![GitHub stars](https://badgen.net/github/stars/thiago-vale/thiago-vale)](https://GitHub.com/thiago-vale/thiago-vale/stargazers/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/thiago-vale/thiago-vale)](https://GitHub.com/thiago-vale/thiago-vale/commit/)
+
+
+
+
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
