@@ -20,3 +20,4 @@ Atualmente eu estou trabalhando como Engenheiro de Dados na Smart Fit.
 </div>
 
 
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
