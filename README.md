@@ -1,8 +1,8 @@
 Hi i'm Thiago Vale, Welcome to my profile.
 Oi meu nome e Thiago Vale, bem vindo ao meu perfil.
 
-I’m currently working as Data Engineer.
-Atualmente eu estou trabalhando como Engenheiro de Dados.
+I am currently working as a Consultant in the data area.
+Atualmente eu estou trabalhando como Consultor na área de dados.
 
 ---
 <div>
