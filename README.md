@@ -1,7 +1,3 @@
-Hi i'm Thiago Vale, Welcome to my profile.
-
-I am currently working as a Consultant in the data area..
-
 Oi meu nome e Thiago Vale, bem vindo ao meu perfil.
 
 Atualmente eu estou trabalhando como Consultor na área de dados.
