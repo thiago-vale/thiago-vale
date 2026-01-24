@@ -1,10 +1,34 @@
-Oi meu nome e Thiago Vale, bem vindo ao meu perfil.
+## 👋 Olá, eu sou o Thiago Vale
 
-Atualmente eu estou trabalhando como Consultor na área de dados.
+Consultor na área de Dados, com foco em *Data Developer (Engenharia de Dados e Machine learning)*.  
+Experiência na construção de **pipelines ETL**, **Data Lakes**, **infraestrutura como código** e soluções escaláveis em cloud.
+
+### 🚀 O que eu faço
+- Construção de pipelines **ETL**
+- Processamento de dados em larga escala com **Spark / PySpark / Databricks**
+- Armazenamento **Data Warehouse / Data Lake / Data Lakehouse**
+- Orquestração com **Airflow / ML Flow / N8N / Alteryx**
+- Infraestrutura como código com **Terraform**
+- Containers **Docker / Kubernetes**
+- Soluções Serverless **AWS / Azure / GCP**
+
 ---
+### 🛠️ Tecnologias & Ferramentas
 
-![Profile Views](https://komarev.com/ghpvc/?username=thiago-vale&color=blue&style=flat)
-
+AWS, 
+Python, 
+Spark, 
+Databricks, 
+SQL, 
+Docker, 
+Kubernetes, 
+Terraform, 
+Airflow, 
+Machine Learning,
+NoSQL, 
+Azure, 
+Alteryx, 
+n8n
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
