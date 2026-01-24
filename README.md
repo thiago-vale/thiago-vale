@@ -2,13 +2,7 @@ Oi meu nome e Thiago Vale, bem vindo ao meu perfil.
 
 Atualmente eu estou trabalhando como Consultor na área de dados.
 
----
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thiago-vale/count.svg?"/>
-</div>
-
----
 
 <div  align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
