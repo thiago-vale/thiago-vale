@@ -5,13 +5,13 @@ Atualmente eu estou trabalhando como Consultor na área de dados.
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thiago-vale/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/thiago-vale/count.svg?"/>
 </div>
 
 ---
 
 <div  align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
